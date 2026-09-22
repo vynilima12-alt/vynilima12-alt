@@ -11,11 +11,8 @@ Sou Estagiário de Análise de Dados no **BRB - Banco de Brasília**, focado em 
 
 ###  Projetos em destaque
 
-**[Conciliação de transações VISA](https://github.com/vynilima12-alt/automacao-visa/tree/main))**  
+**[Conciliação de transações VISA](https://github.com/vynilima12-alt/automacao-visa/tree/main)**  
 Pipeline em Python que automatiza a conciliação de relatórios bancários do VISA Nacional, substituindo o processo manual e gerando uma planilha consolidada de batimento e confronto, com interface gráfica para o usuário final.
-
-**[Automação de Cotação de Dólar](link-do-repo)**  
-Rotina diária de captura, registro e histórico da cotação do dólar via automação de terminal + Excel.
 
 ---
 
