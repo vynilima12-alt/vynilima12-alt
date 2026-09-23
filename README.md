@@ -22,4 +22,4 @@ Pipeline em Python que automatiza a conciliação de relatórios bancários do V
 
 ---
 
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/vynicius-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BviIOJ6AiTHSqYRjxRYhgzQ%3D%3D)
+Contato: [LinkedIn](https://www.linkedin.com/in/vynicius-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BviIOJ6AiTHSqYRjxRYhgzQ%3D%3D)
