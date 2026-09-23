@@ -14,9 +14,9 @@ Sou Estagiário de Análise de Dados no **BRB - Banco de Brasília**, focado em 
 **[Conciliação de transações VISA](https://github.com/vynilima12-alt/automacao-visa/tree/main)**  
 Pipeline em Python que automatiza a conciliação de relatórios bancários do VISA Nacional, substituindo o processo manual e gerando uma planilha consolidada de batimento e confronto, com interface gráfica para o usuário final. 
 
-
 **[Extrato SLC](https://github.com/vynilima12-alt/extrato-slc)**
-Aplicativo que automatiza o acompanhamento e a conciliação dos arquivos SLC, cruzando transações do arranjo de pagamentos com os retornos da Nuclea, reduzindo horas de análise manual.
+Aplicativo em Python que automatiza a extração, consolidação e conciliação de grandes volumes de transações, cruzando arquivos de entrada e retorno e gerando uma base consolidada para consulta e análise, substituindo um processo manual e reduzindo significativamente o esforço operacional.
+
 ---
 
 ###  Tecnologias
